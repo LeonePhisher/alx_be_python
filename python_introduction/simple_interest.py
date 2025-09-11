@@ -1,6 +1,6 @@
 
-P=1000
-T=0.05
-R=3
-interest=(P*R*T)
+Principal=1000
+Rate=3
+Time=0.05
+interest=(Principal*Rate*Time)
 print(f"The simple interest is: {interest}")
